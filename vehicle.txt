@@ -1,1 +1,2 @@
 Vehicle registration details
+Additional vehicle info
